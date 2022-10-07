@@ -1,4 +1,4 @@
-# Course MLOps-Zoomcamp Final Project Capstone
+# MLOps-pipeline-telecom-customer-churn
 
 ## Project name
 
@@ -6,17 +6,10 @@
 
 <img src="https://github.com/surawut-jirasaktavee/course-mlops-zoomcamp/blob/main/08-project-capstone/images/Customer_churn_prediction.drawio.png">
 
-## Project evaluation criteria:
-https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/07-project
-
 ## Project description
-
-This is the final project for the course `mlops-zoomcamp` from [DataTalksClub](https://github.com/DataTalksClub/mlops-zoomcamp).
 
 **Project pain point**:
 Churn prediction means detecting which customers are likely to leave or cancel a service subscription. It is a critical prediction for many businesses because acquiring new clients often costs more than retaining existing ones
-
-Since I am a Data Engineer in the Telecommunication industry, I have been interested in Data Science. I have decided to combine my interests and my current industry and do some projects with the course mlops-zoomcamp for the final project.
 
 The project provides an online service for predicting customers who will have the possibility to **Churn** from the company.
 
