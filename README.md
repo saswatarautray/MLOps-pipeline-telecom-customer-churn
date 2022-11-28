@@ -62,15 +62,6 @@ Apart from this the observability for the service is the task being implemented 
 Apart from this, the observability for the service is the task being implemented to ensure the operations team can observability by a combination of **Grafana**, **Prometheus**, and **Evidently**. These services will provide real-time model performance and data drift from production. So the operation can handle the problems immediately or requests other teams to help and discuss to make the decision together.
 
 
-## Demo
-
-This demo shows the main functionality of the project and will follow by the project instructions link below.
-
-https://www.youtube.com/watch?v=5kNUc1ebU28
-
-<a href="https://www.youtube.com/watch?v=5kNUc1ebU28">
-<img src="https://github.com/surawut-jirasaktavee/course-mlops-zoomcamp/blob/main/08-project-capstone/images/data_drift_report.png">
-</a>
   
 ## Project instruction
 
